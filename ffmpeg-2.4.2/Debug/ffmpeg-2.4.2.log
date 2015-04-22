@@ -1,0 +1,40 @@
+﻿  ffmpeg.cpp
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\include\stdint.h(233): warning C4005: “INT64_C”: 宏重定义
+          e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\stdafx.h(44) : 参见“INT64_C”的前一个定义
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\include\stdint.h(238): warning C4005: “UINT64_C”: 宏重定义
+          e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\stdafx.h(45) : 参见“UINT64_C”的前一个定义
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\include\libavutil\bswap.h(75): warning C4244: “参数”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(475): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(617): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(908): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(942): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(968): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(977): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(993): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(1185): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(1212): warning C4018: “<”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(1329): warning C4018: “>=”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(1330): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(1387): warning C4018: “<”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(1468): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(1497): warning C4244: “=”: 从“uint64_t”转换到“double”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(1500): warning C4244: “=”: 从“uint64_t”转换到“double”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(1525): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(1744): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(2088): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(2089): warning C4018: “<”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(2137): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(2189): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(2437): warning C4018: “>”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(2447): warning C4018: “<”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(2596): warning C4018: “<”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(2634): warning C4244: “参数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(2986): warning C4018: “<”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(2990): warning C4018: “<”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(3129): warning C4018: “>=”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(3133): warning C4018: “<”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(3489): warning C4018: “<”: 有符号/无符号不匹配
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(3540): warning C4244: “*=”: 从“double”转换到“int64_t”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(3542): warning C4244: “*=”: 从“double”转换到“int64_t”，可能丢失数据
+e:\myvs2013project\ffmpeg-2.4.2\ffmpeg-2.4.2\ffmpeg.cpp(3936): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+  ffmpeg-2.4.2.vcxproj -> E:\myVS2013project\ffmpeg-2.4.2\Debug\ffmpeg-2.4.2.exe

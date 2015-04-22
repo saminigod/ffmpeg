@@ -1,0 +1,8 @@
+libswscale.a
+libavcodec.a
+libavformat.a
+libavdevice.a
+libavutil.a
+libgcc.a
+libmingwex.lib
+libqueue.a
